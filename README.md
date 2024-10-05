@@ -1,2 +1,2 @@
 # mu
-Framework for Python microservices
+Micro-serice based application platform
